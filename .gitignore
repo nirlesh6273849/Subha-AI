@@ -7,3 +7,4 @@ data/raw/
 data/*.sqlite3
 data/*.npy
 data/*.meta.json
+AGENTS.md
