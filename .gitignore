@@ -1,0 +1,9 @@
+.env
+target/
+node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+data/raw/
+data/*.sqlite3
+data/*.npy
+data/*.meta.json
